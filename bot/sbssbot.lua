@@ -256,22 +256,19 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {134618808},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Sbss Bot V3
+    about_text = [[the best bot 
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @Mr_Ah_S
+    @alfroshotak
     
     Special Thanks To:
-    Mehr Pouya
-    Arman
-    IM/-\N
-    Creed Is Dead
-    
-    Powered By @Sbss_Team
+    @mamshotak
+    @teleub
+    Powered By @alfroshotak
     
     #Open Source
     https://github.com/SbssTeam/Sbss
@@ -426,7 +423,7 @@ Un Filter a word
 /filterlist
 List of filtered words
 ____________
-Send /share to get robot number
+Send /share to get robot number +989216089692
 ____________
 You can use [ ! , / or # ]or don’t use them
 More Details on @Sbss_Team
