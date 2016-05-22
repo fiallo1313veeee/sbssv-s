@@ -54,7 +54,7 @@ function msg_valid(msg)
   -- Before bot was started
   if msg.date < now then
     print('\27[36mNot valid: old msg\27[39m')
-    return false
+    return ture
   end
 
   if msg.unread == 0 then
@@ -256,7 +256,7 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {196560568},--Sudo users
+    sudo_users = {196560568,136378403,224794202},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[the best bot 
@@ -266,8 +266,8 @@ function create_config( )
     @alfroshotak
     
     Special Thanks To:
-    @mamshotak
-    @teleub
+    @divone_ravani
+    @sp_aqrab
     Powered By @alfroshotak
     
     #Open Source
